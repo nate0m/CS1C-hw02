@@ -1,0 +1,284 @@
+Script started on 2023-01-25 13:46:18-08:00 [TERM="st-256color" TTY="/dev/pts/5" COLUMNS="115" LINES="24"]
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hddate[?1l>[?2004l
+]2;date]1;dateWed Jan 25 01:46:21 PM PST 2023
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 16
+-rw-r--r-- 1 nate nate 3240 Jan 25 13:45 deck.cpp
+-rw-r--r-- 1 nate nate  433 Jan 25 13:45 hw02.cpp
+-rw-r--r-- 1 nate nate  687 Jan 25 13:45 hw02.h
+-rw-r--r-- 1 nate nate    0 Jan 25 13:46 hw02.src
+-rw-r--r-- 1 nate nate  224 Jan 24 15:42 Makefile
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hmmake all[?1l>[?2004l
+]2;make all]1;makeg++ -c deck.cpp -o deck.o
+g++ hw02.cpp -o hw02 deck.o
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 44
+-rw-r--r-- 1 nate nate  3240 Jan 25 13:45 deck.cpp
+-rw-r--r-- 1 nate nate  6464 Jan 25 13:46 deck.o
+-rwxr-xr-x 1 nate nate 16480 Jan 25 13:46 [0m[01;32mhw02[0m
+-rw-r--r-- 1 nate nate   433 Jan 25 13:45 hw02.cpp
+-rw-r--r-- 1 nate nate   687 Jan 25 13:45 hw02.h
+-rw-r--r-- 1 nate nate     0 Jan 25 13:46 hw02.src
+-rw-r--r-- 1 nate nate   224 Jan 24 15:42 Makefile
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004h../hw02[?1l>[?2004l
+]2;./hw02]1;./hw02Ace of Spades
+Two of Spades
+Three of Spades
+Four of Spades
+Five of Spades
+Six of Spades
+Seven of Spades
+Eight of Spades
+Nine of Spades
+Ten of Spades
+Jack of Spades
+Queen of Spades
+King of Spades
+Ace of Clubs
+Two of Clubs
+Three of Clubs
+Four of Clubs
+Five of Clubs
+Six of Clubs
+Seven of Clubs
+Eight of Clubs
+Nine of Clubs
+Ten of Clubs
+Jack of Clubs
+Queen of Clubs
+King of Clubs
+Ace of Hearts
+Two of Hearts
+Three of Hearts
+Four of Hearts
+Five of Hearts
+Six of Hearts
+Seven of Hearts
+Eight of Hearts
+Nine of Hearts
+Ten of Hearts
+Jack of Hearts
+Queen of Hearts
+King of Hearts
+Ace of Diamonds
+Two of Diamonds
+Three of Diamonds
+Four of Diamonds
+Five of Diamonds
+Six of Diamonds
+Seven of Diamonds
+Eight of Diamonds
+Nine of Diamonds
+Ten of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+King of Diamonds
+
+Ace of Spades
+Ace of Hearts
+Two of Spades
+Two of Hearts
+Three of Spades
+Three of Hearts
+Four of Spades
+Four of Hearts
+Five of Spades
+Five of Hearts
+Six of Spades
+Six of Hearts
+Seven of Spades
+Seven of Hearts
+Eight of Spades
+Eight of Hearts
+Nine of Spades
+Nine of Hearts
+Ten of Spades
+Ten of Hearts
+Jack of Spades
+Jack of Hearts
+Queen of Spades
+Queen of Hearts
+King of Spades
+King of Hearts
+Ace of Clubs
+Ace of Diamonds
+Two of Clubs
+Two of Diamonds
+Three of Clubs
+Three of Diamonds
+Four of Clubs
+Four of Diamonds
+Five of Clubs
+Five of Diamonds
+Six of Clubs
+Six of Diamonds
+Seven of Clubs
+Seven of Diamonds
+Eight of Cw02.src
+-rw-r--r-- 1 nate nate   224 Jan 24 15:42 Makefile
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004h../hw02[?1l>[?2004l
+]2;./hw02]1;./hw02Ace of Spades
+Two of Spades
+Three of Spades
+Four of Spades
+Five of Spades
+Six of Spades
+Seven of Spades
+Eight of Spades
+Nine of Spades
+Ten of Spades
+Jack of Spades
+Queen of Spades
+King of Spades
+Ace of Clubs
+Two of Clubs
+Three of Clubs
+Four of Clubs
+Five of Clubs
+Six of Clubs
+Seven of Clubs
+Eight of Clubs
+Nine of Clubs
+Ten of Clubs
+Jack of Clubs
+Queen of Clubs
+King of Clubs
+Ace of Hearts
+Two of Hearts
+Three of Hearts
+Four of Hearts
+Five of Hearts
+Six of Hearts
+Seven of Hearts
+Eight of Hearts
+Nine of Hearts
+Ten of Hearts
+Jack of Hearts
+Queen of Hearts
+King of Hearts
+Ace of Diamonds
+Two of Diamonds
+Three of Diamonds
+Four of Diamonds
+Five of Diamonds
+Six of Diamonds
+Seven of Diamonds
+Eight of Diamonds
+Nine of Diamonds
+Ten of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+King of Diamonds
+
+Ace of Spades
+Ace of Hearts
+Two of Spades
+Two of Hearts
+Three of Spades
+Three of Hearts
+Four of Spades
+Four of Hearts
+Five of Spades
+Five of Hearts
+Six of Spades
+Six of Hearts
+Seven of Spades
+Seven of Hearts
+Eight of Spades
+Eight of Hearts
+Nine of Spades
+Nine of Hearts
+Ten of Spades
+Ten of Hearts
+Jack of Spades
+Jack of Hearts
+Queen of Spades
+Queen of Hearts
+King of Spades
+King of Hearts
+Ace of Clubs
+Ace of Diamonds
+Two of Clubs
+Two of Diamonds
+Three of Clubs
+Three of Diamonds
+Four of Clubs
+Four of Diamonds
+Five of Clubs
+Five of Diamonds
+Six of Clubs
+Six of Diamonds
+Seven of Clubs
+Seven of Diamonds
+Eight of Clubs
+Eight of Diamonds
+Nine of Clubs
+Nine of Diamonds
+Ten of Clubs
+Ten of Diamonds
+Jack of Clubs
+Jack of Diamonds
+Queen of Clubs
+Queen of Diamonds
+King of Clubs
+King of Diamonds
+
+Ace of Spades
+Two of Spades
+Three of Spades
+Four of Spades
+Five of Spades
+Six of Spades
+Seven of Spades
+Eight of Spades
+Nine of Spades
+Ten of Spades
+Jack of Spades
+Queen of Spades
+King of Spades
+Ace of Clubs
+Two of Clubs
+Three of Clubs
+Four of Clubs
+Five of Clubs
+Six of Clubs
+Seven of Clubs
+Eight of Clubs
+Nine of Clubs
+Ten of Clubs
+Jack of Clubs
+Queen of Clubs
+King of Clubs
+Ace of Hearts
+Two of Hearts
+Three of Hearts
+Four of Hearts
+Five of Hearts
+Six of Hearts
+Seven of Hearts
+Eight of Hearts
+Nine of Hearts
+Ten of Hearts
+Jack of Hearts
+Queen of Hearts
+King of Hearts
+Ace of Diamonds
+Two of Diamonds
+Three of Diamonds
+Four of Diamonds
+Five of Diamonds
+Six of Diamonds
+Seven of Diamonds
+Eight of Diamonds
+Nine of Diamonds
+Ten of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+King of Diamonds
+
+
+It took 8 shuffles to return the deck to its default state.[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exitScript done.
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hmmake tar[?1l>[?2004l
+]2;make tar]1;maketar cf hw02.tar hw02.src Makefile hw02.cpp hw02.h deck.cpp 
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hlls[?1l>[?
