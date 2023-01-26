@@ -281,4 +281,82 @@ It took 8 shuffles to return the deck to its default state.[1m[7m%[27m[1m[0
 ]2;exit]1;exitScript done.
 [1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hmmake tar[?1l>[?2004l
 ]2;make tar]1;maketar cf hw02.tar hw02.src Makefile hw02.cpp hw02.h deck.cpp 
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hlls[?1l>[?
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsdeck.cpp  deck.o  [0m[01;32mhw02[0m  hw02.cpp  hw02.h  hw02.src  [01;31mhw02.tar[0m  Makefile
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;git[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /home/nate/Documents/school/CS1C/src/hw02/.git/
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit remote add origin httpsL ://github.com/ante    nate0m/CS1C-hw02.git[?1l>[?2004l
+]2;git remote add origin https://github.com/nate0m/CS1C-hw02.git]1;git[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   Makefile[m
+	[32mnew file:   deck.cpp[m
+	[32mnew file:   deck.o[m
+	[32mnew file:   hw02[m
+	[32mnew file:   hw02.cpp[m
+	[32mnew file:   hw02.h[m
+	[32mnew file:   hw02.src[m
+	[32mnew file:   hw02.tar[m
+
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m " "[?1l>[?2004l
+]2;git commit -m " "]1;gitAborting commit due to empty commit message.
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgit commit -m " "a "d "d "i "n "g "[1C "c "o "d "e "[1C" [?1l>[?2004l
+]2;git commit -m "adding code"]1;git[master (root-commit) 5428f8b] adding code
+ 8 files changed, 488 insertions(+)
+ create mode 100644 Makefile
+ create mode 100644 deck.cpp
+ create mode 100644 deck.o
+ create mode 100755 hw02
+ create mode 100644 hw02.cpp
+ create mode 100644 hw02.h
+ create mode 100644 hw02.src
+ create mode 100644 hw02.tar
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hppit push --set-upstream origin master[?1l>[?2004l
+]2;pit push --set-upstream origin master]1;pitzsh: command not found: pit
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpit push --set-upstream origin master[P[36C [37Dgit push --set-upstream origin master[36D[?1l>[?2004l
+]2;git push --set-upstream origin master]1;gitUsername for 'https://github.com': nate0m
+Password for 'https://nate0m@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/nate0m/CS1C-hw02.git/'
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/school/CS1C/src/hw02]1;..CS1C/src/hw02[0m[27m[24m[J[01;31m [36m  hw02[00m [01;34m  git:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgit push --set-upstream origin master[?1l>[?2004l
+]2;git push --set-upstream origin master]1;gitUsername for 'https://github.com': ante    nate0m
+Password for 'https://nate0m@github.com': 
+Enumerating objects: 10, done.
+Counting objects:  10% (1/10)Counting objects:  20% (2/10)Counting objects:  30% (3/10)Counting objects:  40% (4/10)Counting objects:  50% (5/10)Counting objects:  60% (6/10)Counting objects:  70% (7/10)Counting objects:  80% (8/10)Counting objects:  90% (9/10)Counting objects: 100% (10/10)Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects:  10% (1/10)Compressing objects:  20% (2/10)Compressing objects:  30% (3/10)Compressing objects:  40% (4/10)Compressing objects:  50% (5/10)Compressing objects:  60% (6/10)Compressing objects:  70% (7/10)Compressing objects:  80% (8/10)Compressing objects:  90% (9/10)Compressing objects: 100% (10/10)Compressing objects: 100% (10/10), done.
+Writing objects:  10% (1/10)Writing objects:  20% (2/10)Writing objects:  30% (3/10)Writing objects:  40% (4/10)Writing objects:  50% (5/10)Writing objects:  60% (6/10)Writing objects:  70% (7/10)Writing objects:  90% (9/10)Writing objects: 100% (10/10)Writing objects: 100% (10/10), 9.61 KiB | 2.40 MiB/s, done.
+Total 10 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/nate0m/CS1C-hw02/pull/new/master[K
+remote: 
+To https://github.com/nate0m/CS1C-hw02.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+[1m[7m%[27m[1m[0m            

@@ -113,7 +113,7 @@ void deck::pShuffle(deck &d) {
 
     deck temp;
 
-    // initialize temp deck to default order
+    // copies deck &d to deck temp
     for(int j = 0; j < MAX; j++) {
 
         temp.card[j] = d.card[j]; 
