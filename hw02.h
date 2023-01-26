@@ -21,7 +21,7 @@ class deck {
     public:
         deck(); // default constructor
 
-        void printDeck(); 
+        void printDeck() const; 
         void pShuffle(deck &d);
 
         bool operator==(const deck &d);
