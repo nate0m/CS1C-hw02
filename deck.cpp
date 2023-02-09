@@ -13,7 +13,7 @@ deck::deck() {
         }
     }
 }
-void deck::printDeck() {
+void deck::printDeck() const {
 
     // for all 52 card check value and suit and print coresponding strings
     // first switch = value
